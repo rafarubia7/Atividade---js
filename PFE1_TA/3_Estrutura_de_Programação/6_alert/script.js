@@ -1,1 +1,0 @@
-alert("O Palmeiras é o melhor!")
